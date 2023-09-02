@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakejogers, currently a student intrested in CS
+- 👋 Hi, I’m Jake Rogers, currently an undergraduate student in Computer Science
 - 👀 I’m interested in full-stack web devolpment, AI, machine learning
 - 🌱 I’m currently learning HTML/CSS/JS/Python
 - 💞️ I’m looking to collaborate on anything cool
