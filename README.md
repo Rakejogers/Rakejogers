@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jake Rogers, currently an undergraduate student in Computer Science
 - 👀 I’m interested in full-stack web devolpment, AI, machine learning
-- 🌱 I’m currently learning React/React-Native and C++
+- 🌱 I’m currently learning Next.js and C++
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 Reach me at jarog2005@gmail.com
 
