@@ -59,15 +59,15 @@ Operating System familiar with:
 <br><br>
 
 <div align="center">
- <div>
+<!--  <div>
    <p>&nbsp;
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rakejogers&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="rakejogers" />
    </p>
-  </div>
-<!--   <div>
+  </div> -->
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rakejogers&count_private=true&theme=radical&show_icons=true" />
   </div>
-  <div>
+<!--   <div>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakejogers&layout=compact&theme=radical" />
   </div> -->
  </div>
