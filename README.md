@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on - An ai travel guide mobile app agent workflow.
 
-🌱 I’m currently learning - React Native/Next.js and deep reinforcement learning by building an AI for the game Snake.
+🌱 I’m currently learning - React Native/Next.js and nureal networks from the goat Andrej Karpathy.
 
 💬 Ask me about - Next.js, React, Python, and C++.
 
