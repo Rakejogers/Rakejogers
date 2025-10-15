@@ -6,7 +6,7 @@
 </h3>
 <h3>Currently a Computer Science student at the University of Kentucky.</h3>
 
-🔭 I’m currently working on - A student-focused ticket exchange platform called Scholar Seats and a travel mobile app.
+🔭 I’m currently working on - An ai travel guide mobile app agent workflow.
 
 🌱 I’m currently learning - React Native/Next.js and deep reinforcement learning by building an AI for the game Snake.
 
