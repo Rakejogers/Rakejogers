@@ -59,16 +59,17 @@ Operating System familiar with:
 <br><br>
 
 <div align="center">
-<!--  <div>
+ <div>
    <p>&nbsp;
      <img src="http://github-readme-streak-stats.herokuapp.com?user=rakejogers" alt="GitHub Streak" />
    </p>
-  </div> -->
-  <div>
+  </div>
+  <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rakejogers&count_private=true&theme=dark&show_icons=true" />
-  </div>
-<!--   <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakejogers&layout=compact&theme=radical" />
   </div> -->
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakejogers&layout=compact&theme=radical" />
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=rakejogers" alt="rakejogers" /> 
  </div>
 <br><h2></h2><br>
