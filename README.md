@@ -6,7 +6,7 @@ CS student at the University of Kentucky, currently building as a SWE intern at 
 - 🌱 Learning React Native, Next.js, and neural networks
 - 💬 Ask me about Next.js, React, Python, or C++
 
-<a href="https://www.linkedin.com/in/thivagarm/">
+<a href="https://www.linkedin.com/in/jake-rogers-engineer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
 </a>
 <a href="mailto:jarog2005@gmail.com">
